@@ -1,0 +1,22 @@
+# Modul-modul hasil praktikum (tidak di-track)
+FUZZY.py
+YOLO.py
+ReadDisplayVideo.py
+ReadImageData.py
+Labelling Data.ipynb
+
+# Dataset dan file zip besar
+dataset_combined/
+UAS-Sitting-Posture.v3i.yolov11/
+sitting-posture.v1i.yolov11/
+sitting posture.v4i.yolov11/
+*.zip
+
+# Hasil training, cache, dan temporary files
+runs/
+__pycache__/
+*.pyc
+*.mp4
+yolo11n.pt
+.vscode/
+.idea/
